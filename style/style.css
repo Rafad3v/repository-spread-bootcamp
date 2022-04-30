@@ -3,4 +3,22 @@ html, body {
 }
 body {
   background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 62.5%;
+}
+#container {
+  background-color: #4b1196;
+  padding: 2rem 4rem;
+  border-radius: 10px;
+}
+#container h1 {
+  color: #fe990d;
+  font-size: 4rem;
+}
+#container p {
+  color: #fff;
+  font-size: 2rem;
+  text-align: center;
 }
